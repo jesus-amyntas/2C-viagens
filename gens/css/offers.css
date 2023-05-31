@@ -1,0 +1,63 @@
+body{
+    background-color: orange;
+    
+}
+header{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+}
+#icon{
+    position: relative;
+    width: 150px;
+    height: 150px;
+}
+
+li{
+    
+    display: inline;
+    bottom: 85px;
+    position: relative;
+    left: 1600px;
+    color: rgb(255, 255, 255);
+    
+}
+a:visited{
+    color: black;
+}
+a:link{
+    color: black;
+}
+a:hover{
+    color: black;
+}
+a:active{
+    color: black;
+}
+main{
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 1000px;
+    position: relative;
+    left: 450px;
+
+    
+}
+main{
+    background-color: rgb(255, 255, 255);
+    width: 70%;
+    height: 100%;
+    position: relative;
+    left: 15%;
+}
+p.in{
+    font-size: xx-large;
+    margin: 20px;
+}
+p.em{
+    font-size: xx-large;
+    margin: 20px;
+}
+p.tel{
+    font-size: xx-large;
+    margin: 20px;
+}
